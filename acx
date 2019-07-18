@@ -2,4 +2,5 @@ print("hello ketty")
 
 for i in range(20):
 	print(i)
-print('PYTHON 3.6')
+
+
